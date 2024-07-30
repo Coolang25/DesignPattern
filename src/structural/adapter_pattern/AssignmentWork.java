@@ -1,4 +1,4 @@
-package creational.adapter_pattern;
+package structural.adapter_pattern;
 
 public class AssignmentWork {
     private Pen p;

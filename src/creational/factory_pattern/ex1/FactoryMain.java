@@ -1,8 +1,4 @@
-package creational.factory_pattern;
-
-import creational.factory_pattern.com.phone.Android;
-import creational.factory_pattern.com.phone.OS;
-import creational.factory_pattern.com.phone.OperatingSystemFactory;
+package creational.factory_pattern.ex1;
 
 public class FactoryMain {
     public static void main(String[] args) {

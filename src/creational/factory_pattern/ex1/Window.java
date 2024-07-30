@@ -1,4 +1,4 @@
-package creational.factory_pattern.com.phone;
+package creational.factory_pattern.ex1;
 
 public class Window implements OS{
     @Override

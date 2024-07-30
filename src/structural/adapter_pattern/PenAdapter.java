@@ -1,4 +1,4 @@
-package creational.adapter_pattern;
+package structural.adapter_pattern;
 
 public class PenAdapter implements Pen{
     PilotPen pp = new PilotPen();
